@@ -1,4 +1,0 @@
-cbs
-===
-
-Community Bootup Scripts

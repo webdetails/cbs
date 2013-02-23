@@ -1,0 +1,6 @@
+cbs
+===
+
+Community Bootup Scripts
+
+This is a sample init.d script that can be used to start and stop pentaho automatically
